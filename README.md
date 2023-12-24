@@ -7,3 +7,4 @@
 
 - Homework
 - Quiz & Midterm
+- Project
