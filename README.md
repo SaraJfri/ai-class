@@ -8,3 +8,4 @@
 - Homework
 - Quiz & Midterm
 - Project
+- Presentation
